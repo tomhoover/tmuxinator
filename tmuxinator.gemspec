@@ -40,7 +40,7 @@ Gem::Specification.new do |s|
   s.add_dependency "thor", "~> 0.19", ">= 0.15.0"
   s.add_dependency "erubis", "~> 2.6"
 
-  s.add_development_dependency "bundler", "~> 1.3"
+  s.add_development_dependency "bundler", "~> 2.2"
   s.add_development_dependency "rspec", "~> 3.1"
   s.add_development_dependency "simplecov", "~> 0.9"
   s.add_development_dependency "coveralls", "~> 0.7"
